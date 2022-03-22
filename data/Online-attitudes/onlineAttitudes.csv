@@ -1,0 +1,306 @@
+Before,During,After,Gender,age
+Very Positive,Very Negative,Will Never Do it,M,18-21
+Very Positive,Will Never Do it,Very Positive,F,18-21
+Negative,Neutral,Very Negative,F,18-21
+Very Positive,Very Positive,Very Negative,M,18-21
+Very Negative,Very Negative,Very Negative,M,35-49
+Very Positive,Will Never Do it,Very Negative,F,18-21
+Positive,Very Negative,Neutral,M,18-21
+Neutral,Very Positive,Negative,F,18-21
+Negative,Very Negative,Very Negative,F,22-34
+Very Negative,Very Negative,Very Negative,M,18-21
+Very Negative,Very Negative,Neutral,M,18-21
+Very Negative,Will Never Do it,Very Negative,M,18-21
+Very Negative,Neutral,Neutral,F,18-21
+Very Positive,Very Negative,Neutral,F,35-49
+Will Never Do it,Neutral,Very Positive,M,22-34
+Very Positive,Positive,Very Negative,F,35-49
+Will Never Do it,Very Negative,Very Negative,M,22-34
+Very Negative,Very Negative,Very Positive,M,22-34
+Very Positive,Very Negative,Very Negative,M,22-34
+Very Negative,Very Positive,Neutral,M,18-21
+Neutral,Very Negative,Very Positive,M,22-34
+Very Positive,Neutral,Very Positive,F,18-21
+Very Negative,Very Positive,Very Negative,F,18-21
+Will Never Do it,Very Positive,Very Positive,M,18-21
+Negative,Neutral,Very Positive,M,18-21
+Will Never Do it,Very Negative,Very Positive,M,18-21
+Positive,Positive,Neutral,F,50-64
+Very Negative,Neutral,Very Negative,F,18-21
+Very Negative,Neutral,Neutral,F,18-21
+Very Negative,Very Negative,Very Positive,M,18-21
+Neutral,Very Negative,Neutral,F,18-21
+Neutral,Very Negative,Positive,F,18-21
+Very Negative,Very Negative,Positive,Prefer Not to Say,22-34
+Negative,Very Negative,Neutral,F,22-34
+Very Negative,Very Negative,Negative,F,18-21
+Very Negative,Will Never Do it,Very Positive,M,22-34
+Very Negative,Will Never Do it,Will Never Do it,M,18-21
+Neutral,Very Negative,Negative,F,35-49
+Very Negative,Very Positive,Very Negative,M,18-21
+Will Never Do it,Very Negative,Very Negative,F,22-34
+Very Positive,Very Positive,Very Negative,M,35-49
+Neutral,Neutral,Very Positive,M,22-34
+Very Negative,Very Negative,Very Negative,F,22-34
+Very Negative,Neutral,Negative,F,18-21
+Very Negative,Negative,Will Never Do it,F,18-21
+Very Negative,Negative,Very Negative,M,18-21
+Negative,Very Negative,Neutral,F,22-34
+Very Negative,Very Negative,Very Positive,F,18-21
+Neutral,Neutral,Very Negative,M,18-21
+Very Negative,Neutral,Neutral,F,18-21
+Neutral,Very Negative,Very Positive,M,35-49
+Very Positive,Neutral,Will Never Do it,F,35-49
+Negative,Will Never Do it,Very Negative,M,18-21
+Very Negative,Will Never Do it,Very Negative,F,18-21
+Very Negative,Neutral,Very Negative,M,18-21
+Very Negative,Very Negative,Very Negative,Prefer Not to Say,18-21
+Neutral,Very Negative,Very Negative,F,35-49
+Neutral,Will Never Do it,Neutral,M,18-21
+Will Never Do it,Very Negative,Very Positive,M,18-21
+Very Negative,Neutral,Very Positive,M,18-21
+Very Negative,Very Negative,Very Positive,F,18-21
+Very Negative,Very Negative,Very Negative,F,35-49
+Very Positive,Neutral,Very Negative,F,18-21
+Very Negative,Will Never Do it,Negative,M,35-49
+Neutral,Will Never Do it,Positive,F,18-21
+Will Never Do it,Very Positive,Very Negative,M,18-21
+Very Positive,Very Negative,Very Negative,M,22-34
+Very Negative,Very Negative,Very Negative,M,18-21
+Neutral,Very Negative,Positive,F,22-34
+Neutral,Very Positive,Very Negative,M,18-21
+Neutral,Will Never Do it,Very Negative,F,18-21
+Neutral,Very Negative,Neutral,M,18-21
+Positive,Neutral,Will Never Do it,M,22-34
+Neutral,Neutral,Very Negative,M,35-49
+Very Negative,Neutral,Neutral,M,18-21
+Very Negative,Will Never Do it,Neutral,M,35-49
+Very Negative,Very Negative,Very Negative,F,18-21
+Neutral,Very Negative,Very Positive,M,18-21
+Negative,Negative,Very Positive,M,50-64
+Very Negative,Neutral,Very Negative,F,35-49
+Neutral,Neutral,Negative,M,18-21
+Neutral,Very Negative,Neutral,F,18-21
+Negative,Very Negative,Negative,Prefer Not to Say,22-34
+Very Positive,Negative,Very Negative,M,18-21
+Very Negative,Very Negative,Neutral,F,22-34
+Positive,Very Negative,Neutral,F,18-21
+Very Positive,Will Never Do it,Will Never Do it,M,18-21
+Neutral,Very Negative,Very Negative,M,18-21
+Very Positive,Very Negative,Very Positive,M,18-21
+Very Positive,Very Negative,Very Positive,F,18-21
+Will Never Do it,Very Negative,Very Positive,F,18-21
+Very Negative,Neutral,Neutral,M,22-34
+Very Negative,Neutral,Will Never Do it,F,50-64
+Positive,Very Negative,Negative,F,18-21
+Neutral,Very Positive,Neutral,M,18-21
+Will Never Do it,Neutral,Negative,M,18-21
+Positive,Very Negative,Very Negative,M,18-21
+Very Negative,Negative,Very Positive,F,35-49
+Neutral,Very Positive,Very Negative,F,35-49
+Very Positive,Very Positive,Very Positive,M,18-21
+Neutral,Very Negative,Very Negative,M,18-21
+Very Negative,Very Negative,Neutral,F,22-34
+Will Never Do it,Neutral,Very Negative,Prefer Not to Say,65+
+Neutral,Very Negative,Very Negative,F,18-21
+Very Negative,Negative,Very Negative,F,18-21
+Will Never Do it,Will Never Do it,Negative,M,22-34
+Neutral,Neutral,Neutral,Prefer Not to Say,22-34
+Very Negative,Will Never Do it,Very Negative,M,18-21
+Very Negative,Very Negative,Very Positive,F,18-21
+Neutral,Very Negative,Neutral,Prefer Not to Say,22-34
+Positive,Very Negative,Very Positive,F,35-49
+Very Negative,Neutral,Negative,F,22-34
+Negative,Very Positive,Very Negative,M,22-34
+Neutral,Negative,Very Negative,M,18-21
+Will Never Do it,Positive,Neutral,F,18-21
+Very Negative,Positive,Very Positive,F,18-21
+Will Never Do it,Very Negative,Very Positive,F,22-34
+Very Negative,Very Negative,Will Never Do it,F,22-34
+Very Positive,Negative,Neutral,F,22-34
+Will Never Do it,Very Negative,Neutral,M,18-21
+Neutral,Very Negative,Positive,M,18-21
+Very Negative,Negative,Neutral,M,35-49
+Very Negative,Very Negative,Very Negative,M,18-21
+Very Negative,Positive,Negative,F,18-21
+Very Negative,Very Negative,Very Negative,M,18-21
+Very Positive,Neutral,Will Never Do it,M,35-49
+Very Negative,Neutral,Very Negative,F,22-34
+Very Negative,Will Never Do it,Neutral,M,18-21
+Very Negative,Very Positive,Positive,F,22-34
+Very Negative,Will Never Do it,Negative,M,18-21
+Will Never Do it,Very Negative,Will Never Do it,M,65+
+Very Negative,Positive,Neutral,M,22-34
+Very Negative,Very Positive,Very Positive,M,22-34
+Neutral,Neutral,Very Negative,F,22-34
+Very Positive,Negative,Very Negative,M,22-34
+Very Negative,Neutral,Will Never Do it,M,18-21
+Negative,Very Negative,Very Negative,F,18-21
+Very Negative,Very Negative,Very Negative,F,18-21
+Will Never Do it,Positive,Will Never Do it,F,18-21
+Very Negative,Very Positive,Very Negative,F,18-21
+Will Never Do it,Very Positive,Very Positive,F,18-21
+Very Negative,Will Never Do it,Neutral,M,35-49
+Positive,Negative,Very Positive,M,18-21
+Will Never Do it,Will Never Do it,Very Negative,M,18-21
+Very Negative,Very Positive,Very Negative,M,18-21
+Very Negative,Very Positive,Positive,F,35-49
+Neutral,Will Never Do it,Very Negative,M,22-34
+Will Never Do it,Neutral,Neutral,F,18-21
+Very Negative,Very Positive,Very Negative,M,18-21
+Very Negative,Very Positive,Very Negative,M,22-34
+Very Negative,Very Positive,Very Negative,F,22-34
+Very Negative,Neutral,Neutral,M,22-34
+Very Positive,Very Negative,Very Negative,F,18-21
+Neutral,Very Positive,Neutral,M,18-21
+Very Negative,Neutral,Very Negative,M,18-21
+Very Negative,Very Positive,Very Negative,M,18-21
+Positive,Very Positive,Very Negative,M,35-49
+Very Positive,Very Positive,Will Never Do it,M,22-34
+Negative,Very Negative,Negative,F,18-21
+Neutral,Very Negative,Very Negative,F,22-34
+Very Positive,Neutral,Will Never Do it,M,18-21
+Very Negative,Very Negative,Positive,F,35-49
+Positive,Very Negative,Neutral,F,18-21
+Neutral,Very Negative,Very Negative,Prefer Not to Say,18-21
+Very Positive,Positive,Neutral,F,22-34
+Positive,Very Negative,Positive,F,18-21
+Very Negative,Neutral,Very Negative,M,22-34
+Negative,Very Positive,Very Negative,M,35-49
+Will Never Do it,Very Positive,Very Negative,M,18-21
+Very Negative,Very Positive,Very Negative,M,22-34
+Very Negative,Very Negative,Positive,M,65+
+Very Negative,Very Negative,Neutral,F,18-21
+Very Negative,Neutral,Very Negative,M,50-64
+Very Negative,Very Positive,Neutral,M,35-49
+Very Negative,Will Never Do it,Very Negative,F,18-21
+Very Negative,Very Negative,Negative,M,22-34
+Very Positive,Very Negative,Very Negative,M,18-21
+Very Positive,Neutral,Very Negative,M,18-21
+Very Positive,Very Negative,Will Never Do it,F,22-34
+Very Positive,Very Negative,Very Negative,M,18-21
+Neutral,Very Negative,Negative,F,18-21
+Very Negative,Very Negative,Very Negative,M,22-34
+Very Negative,Positive,Very Negative,F,18-21
+Very Positive,Will Never Do it,Positive,F,35-49
+Very Negative,Neutral,Very Negative,F,18-21
+Will Never Do it,Neutral,Very Negative,F,18-21
+Very Negative,Very Negative,Neutral,F,18-21
+Very Negative,Neutral,Will Never Do it,F,18-21
+Neutral,Very Negative,Very Negative,M,18-21
+Will Never Do it,Will Never Do it,Very Negative,F,18-21
+Neutral,Very Negative,Very Negative,F,18-21
+Very Positive,Neutral,Very Negative,F,22-34
+Very Negative,Will Never Do it,Very Positive,F,50-64
+Very Negative,Will Never Do it,Neutral,F,50-64
+Very Negative,Will Never Do it,Neutral,M,35-49
+Very Positive,Very Negative,Very Negative,F,50-64
+Neutral,Very Negative,Positive,M,22-34
+Very Negative,Negative,Very Negative,M,18-21
+Neutral,Negative,Very Negative,F,18-21
+Very Positive,Very Negative,Very Positive,F,18-21
+Neutral,Very Negative,Very Negative,F,35-49
+Neutral,Will Never Do it,Neutral,M,18-21
+Very Negative,Negative,Very Negative,M,18-21
+Very Negative,Very Negative,Very Negative,M,18-21
+Very Negative,Will Never Do it,Very Negative,F,35-49
+Very Negative,Very Negative,Very Negative,F,22-34
+Very Negative,Very Negative,Very Negative,M,18-21
+Very Positive,Very Negative,Negative,M,18-21
+Will Never Do it,Very Positive,Negative,Prefer Not to Say,22-34
+Very Negative,Very Negative,Positive,F,50-64
+Very Positive,Positive,Neutral,F,22-34
+Very Negative,Very Positive,Very Negative,F,18-21
+Very Negative,Very Positive,Neutral,M,22-34
+Very Negative,Very Positive,Very Positive,M,18-21
+Neutral,Neutral,Very Negative,F,35-49
+Very Negative,Very Positive,Negative,M,18-21
+Positive,Very Negative,Very Negative,F,50-64
+Very Negative,Very Negative,Will Never Do it,F,18-21
+Very Negative,Will Never Do it,Neutral,M,18-21
+Negative,Negative,Positive,M,65+
+Negative,Very Negative,Will Never Do it,M,18-21
+Very Positive,Neutral,Very Positive,M,22-34
+Very Positive,Positive,Very Positive,M,18-21
+Very Positive,Neutral,Very Negative,F,18-21
+Neutral,Very Negative,Neutral,F,18-21
+Very Positive,Will Never Do it,Will Never Do it,F,18-21
+Neutral,Very Negative,Very Negative,M,18-21
+Very Negative,Positive,Very Negative,F,18-21
+Very Negative,Positive,Very Negative,F,18-21
+Very Positive,Very Positive,Very Negative,M,18-21
+Neutral,Very Negative,Very Negative,F,22-34
+Positive,Very Positive,Neutral,M,18-21
+Very Positive,Very Negative,Very Positive,M,18-21
+Very Negative,Very Negative,Negative,M,35-49
+Very Negative,Neutral,Very Negative,F,18-21
+Neutral,Very Negative,Very Positive,M,22-34
+Very Negative,Will Never Do it,Very Negative,M,50-64
+Very Positive,Very Negative,Very Positive,F,18-21
+Very Positive,Positive,Neutral,F,22-34
+Negative,Negative,Very Negative,F,18-21
+Very Positive,Neutral,Neutral,M,18-21
+Very Negative,Very Negative,Neutral,F,18-21
+Very Positive,Neutral,Very Negative,F,35-49
+Positive,Very Negative,Very Negative,F,35-49
+Very Positive,Very Negative,Very Positive,M,18-21
+Very Negative,Negative,Very Positive,F,22-34
+Very Negative,Very Positive,Very Negative,F,18-21
+Neutral,Negative,Very Negative,M,22-34
+Very Positive,Very Positive,Very Positive,M,18-21
+Neutral,Very Negative,Neutral,F,22-34
+Very Negative,Neutral,Will Never Do it,Prefer Not to Say,22-34
+Very Positive,Very Negative,Will Never Do it,M,18-21
+Very Negative,Very Negative,Very Negative,F,18-21
+Very Negative,Very Positive,Very Positive,M,18-21
+Negative,Very Negative,Very Positive,M,22-34
+Very Positive,Will Never Do it,Very Negative,Prefer Not to Say,22-34
+Very Positive,Very Negative,Negative,F,18-21
+Very Positive,Very Negative,Neutral,M,22-34
+Neutral,Neutral,Very Positive,M,18-21
+Positive,Neutral,Neutral,F,22-34
+Very Positive,Very Positive,Neutral,M,18-21
+Very Negative,Very Negative,Very Positive,M,18-21
+Very Negative,Neutral,Negative,F,35-49
+Very Negative,Very Positive,Very Negative,F,35-49
+Negative,Very Positive,Will Never Do it,F,18-21
+Positive,Positive,Very Negative,F,18-21
+Neutral,Very Negative,Very Negative,F,50-64
+Very Negative,Very Negative,Will Never Do it,F,35-49
+Negative,Very Negative,Very Negative,Prefer Not to Say,18-21
+Very Negative,Very Positive,Neutral,M,22-34
+Very Negative,Very Positive,Negative,F,18-21
+Negative,Negative,Very Negative,F,50-64
+Very Negative,Very Positive,Very Negative,F,18-21
+Will Never Do it,Positive,Very Negative,M,18-21
+Positive,Neutral,Very Negative,F,18-21
+Very Negative,Very Positive,Very Negative,F,18-21
+Very Negative,Neutral,Very Negative,M,22-34
+Positive,Very Positive,Very Negative,M,22-34
+Neutral,Very Negative,Neutral,F,18-21
+Neutral,Very Negative,Very Negative,F,22-34
+Very Positive,Will Never Do it,Very Positive,M,18-21
+Very Negative,Very Positive,Very Positive,F,18-21
+Neutral,Very Negative,Very Negative,F,18-21
+Negative,Very Negative,Very Negative,M,18-21
+Negative,Neutral,Negative,M,35-49
+Very Negative,Very Negative,Will Never Do it,M,18-21
+Neutral,Very Negative,Very Positive,F,18-21
+Neutral,Neutral,Very Negative,M,18-21
+Very Negative,Negative,Very Positive,M,35-49
+Very Positive,Neutral,Positive,M,22-34
+Negative,Will Never Do it,Will Never Do it,M,50-64
+Very Positive,Very Positive,Neutral,F,18-21
+Negative,Very Negative,Will Never Do it,F,22-34
+Very Negative,Negative,Will Never Do it,F,22-34
+Will Never Do it,Will Never Do it,Neutral,M,18-21
+Very Negative,Very Negative,Neutral,M,18-21
+Very Positive,Very Negative,Neutral,F,35-49
+Neutral,Very Negative,Will Never Do it,M,18-21
+Will Never Do it,Very Positive,Neutral,F,18-21
+Will Never Do it,Will Never Do it,Will Never Do it,M,18-21
+Very Negative,Very Negative,Will Never Do it,M,22-34
+Positive,Very Negative,Neutral,M,22-34
+Very Negative,Very Negative,Negative,M,35-49
+Very Negative,Positive,Will Never Do it,F,18-21
+Very Positive,Very Positive,Neutral,F,18-21
